@@ -395,28 +395,3 @@ img {
             pdf.save('ikigai_resultado.pdf');
         }
     </script>
-
-
-
----
-
-### O que isso faz:
-
-1. **Blocos de código**: Usam a sintaxe ````` para exibir os arquivos HTML, CSS e JavaScript formatados.
-2. **Prévia Online**: Dá um link direto para onde o projeto está hospedado (ex: GitHub Pages).
-3. **Organização**: O código está dividido em seções, facilitando a visualização e entendimento.
-
----
-
-### Como usar:
-
-1. **Crie ou atualize** o arquivo `README.md` no repositório.
-2. Cole o código acima.
-3. Substitua os links e nomes (ex: `seu-usuario`, `nome-do-repositorio`).
-4. Suba as alterações no GitHub.
-
-Pronto! O seu código aparecerá no README e será exibido formatado na página principal do repositório! 🚀
-
-</body>
-</html>
-
